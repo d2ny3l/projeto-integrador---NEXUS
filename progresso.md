@@ -22,9 +22,12 @@
 ## decisoes da semana
 -
 -
-## Experimentos
-### teste:
-**resultado:**
+## Testes
+| Teste | Resultado |
+|---|---|
+| Alimentação do ESP32 em bancada | Funcionamento normal |
+| Teste individual dos motores | Ambos funcionaram |
+
 ## açoes futuras
 -
 -
