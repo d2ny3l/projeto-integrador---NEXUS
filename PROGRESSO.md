@@ -4,31 +4,31 @@
 **Professor tecnico:** Breno Meira Moura de Amorim
 # semana 1 - 14/09/2026 a xx/xx/xx
 ## Planejado
-- criaçao do repositorio do projeto
+- criação do repositório do projeto
 -
 -
 -
-## Concluido
-- repositorio criado
+## Concluído
+- repositório criado
 -
 -
 -
-## Ainda em produçao
+## Ainda em produção
 - 
 -
 -
 ## Problemas enfrentados 
 -
-## decisoes da semana
+## decisões da semana
 -
 -
 ## Testes
 | Teste | Resultado |
 |---|---|
-| Alimentação do ESP32 em bancada | Funcionamento normal |
-| Teste individual dos motores | Ambos funcionaram |
+| ________ | ________________ |
+| ________ | ________________ |
 
-## açoes futuras
+## ações futuras
 -
 -
 -
