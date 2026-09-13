@@ -60,7 +60,7 @@ ainda esta em estagios muito iniciais
 
 ## planejamento
 O registro das atividades semanais esta disponivel em:
-[`progresso.md`](progresso.md)
+[`PROGRESSO.md`](PROGRESSO.md)
 
 ---
 
