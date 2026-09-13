@@ -6,8 +6,8 @@
 ### Integrantes e suas funçoes
 | Integrante | Área principal | Responsabilidades |
 |---|---|---|
-| Maria Camily | Piloto e calibraçao | Testes de dirigibilidade, calibração e operação |
-| Joao Mario | Mecânica | Chassi, direção, transmissão e montagem |
+| Maria Camily | Piloto e calibração | Testes de dirigibilidade, calibração e operação |
+| João Mario | Mecânica | Chassi, direção, transmissão e montagem |
 | Pedro Ismael | Projeto e documentação | Arquitetura, desenhos, organização da documentação |
 | Flavia Ludmila | Eletrônica e integração elétrica | Alimentação, drivers, motores, sensores e conexões |
 | Daniel Medeiros | Software e controle | Comunicação, controle, sensores e automação |
@@ -19,7 +19,7 @@ Desenvolver um veículo terrestre em pequena escala para participação na Compe
 
 ---
 
-## Conceito da soluçao
+## Conceito da solução
 -
 -
 -
@@ -28,9 +28,9 @@ Desenvolver um veículo terrestre em pequena escala para participação na Compe
 ---
 
 ## Arquitetura geral
-ainda sera organizado
+ainda será organizada
 ### Subsistemas
-- **Mecanica:** 
+- **Mecânica:** 
 - **Eletrônica:** 
 - **Software:**
 - **Comunicação:** 
@@ -39,8 +39,8 @@ ainda sera organizado
 ---
 
 ## Estado atual do projeto
-ainda esta em estagios muito iniciais
-### Concluido
+ainda está em estagios muito iniciais
+### Concluído
 - [ ] Definição da arquitetura geral
 - [ ] Projeto mecânico inicial
 - [ ] Diagrama elétrico inicial
@@ -51,7 +51,7 @@ ainda esta em estagios muito iniciais
 - [ ] Teste do veículo em movimento
 - [ ] Integração da câmera
 - [ ] Outros: ____________________
-### Em produçao
+### Em produção
 -
 ### Principais pendencias
 -
@@ -64,7 +64,7 @@ O registro das atividades semanais esta disponivel em:
 
 ---
 
-## Documentaçao tecnica
+## Documentação tecnica
 ```text
 docs/
 ├── arquitetura/
@@ -73,7 +73,7 @@ docs/
 ├── software/
 └── testes/
 ```
-### Documentos disponiveis
+### Documentos disponíveis
 - **Arquitetura geral:** 
 - **Projeto mecânico:** 
 - **Diagrama elétrico:** 
@@ -93,7 +93,7 @@ docs/
  
 ---
 
-## comunicaçao com a organizaçao
+## comunicação com a organização
 ### Comandos
 -
 -
@@ -113,5 +113,5 @@ docs/
 
 ---
 
-## Observaçoes 
+## Observações 
 - nenhuma por enquanto
