@@ -115,5 +115,3 @@ docs/
 
 ## Observações 
 - nenhuma por enquanto
-- kjdjdjfjfn
-
