@@ -35,5 +35,41 @@
 - Testes com motor
 - inicialização do design do carro 
 -
+
+---
+
+# semana 2 - xx/09/2026 a xx/09/2026
+## Planejado
+- 
+- 
+- 
+- 
+- 
+-
+## Concluído
+- 
+- 
+- 
+-
+-
+## Ainda em produção
+- 
+- 
+-
+## Problemas enfrentados 
+-
+## decisões da semana
+- 
+-
+## Testes
+| Teste | Resultado |
+|---|---|
+| ________ | ________________ |
+| ________ | ________________ |
+
+## ações futuras
+- 
+- 
+-
 -
 ---
