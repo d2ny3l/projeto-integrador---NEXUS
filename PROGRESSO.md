@@ -38,38 +38,37 @@
 
 ---
 
-# semana 2 - xx/09/2026 a xx/09/2026
+# semana 2 - 21/09/2026 a 25/09/2026
 ## Planejado
+- teste do motor
+- escolha do chassi
+- teste do servo motor
 - 
-- 
-- 
-- 
-- 
--
 ## Concluído
-- 
-- 
-- 
+- chassi escolhido
+- motor funcionando plenamente
+- servo testado
 -
 -
 ## Ainda em produção
-- 
+- projeto do carro
 - 
 -
 ## Problemas enfrentados 
--
+- tivemos problemas para energizar o motor inicialmente 
 ## decisões da semana
+- chassir
+- uso de um servo motor ou não para as rodas dianteiras
 - 
--
 ## Testes
 | Teste | Resultado |
 |---|---|
-| ________ | ________________ |
-| ________ | ________________ |
+| funcionamento do motor | o multímetro não estava aferindo tenção nos terminais do motor |
+| funcionamento do motor | o motor está funcionando plenamente |
 
 ## ações futuras
-- 
-- 
--
+- começo do código oficial
+- começo do esquema eletrico
+- começo do projeto do carro
 -
 ---
