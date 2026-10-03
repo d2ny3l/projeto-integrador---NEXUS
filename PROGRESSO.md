@@ -68,7 +68,45 @@
 
 ## ações futuras
 - começo do código oficial
-- começo do esquema eletrico
+- começo do esquema elétrico
 - começo do projeto do carro
 -
+---
+
+# semana 3 - 28/09/2026 a 02/10/2026
+## Planejado
+- teste do motor
+- inicio desenho técnico do carro
+- inicio do esquema elétrico
+- começar o código final
+- compra do chassi
+- 
+## Concluído
+- chassi comprado
+- motor funcionando
+- inicio da movimentação do carro
+-
+-
+## Ainda em produção
+- desenho técnico do carro
+- esquema elétrico
+- código final
+-
+## Problemas enfrentados 
+- 
+## decisões da semana
+- 
+- 
+## Testes
+| Teste | Resultado |
+|---|---|
+|  | |
+|  |  |
+
+## ações futuras
+- termina do código oficial
+- terminar do esquema eletrico
+- terminar o desenho do carro
+- fazer o carro andar com o novo chassi
+  
 ---
