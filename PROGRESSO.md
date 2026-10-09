@@ -110,3 +110,44 @@
 - fazer o carro andar com o novo chassi
   
 ---
+
+# semana 4 - 05/10/2026 a 09/10/2026
+## Planejado
+- teste do motor
+- Esquema elétrico 
+- Desenho do carro 
+- Continuar o código final
+- Chegada do chassi
+- fazer o carro andar com o novo chassi
+- 
+## Concluído
+- Chassi entre nós
+- motor funcionando
+- inicio da movimentação do carro
+- Desenho do carro feito 
+-
+## Ainda em produção
+- esquema elétrico
+- código final
+- movimentação do carro
+- 
+## Problemas enfrentados 
+- ESP32 esquentando muito, apenas conectado ao cabo USB.
+- Chassi pequeno.
+- 
+## decisões da semana
+- Voltamos a utilizar o kit fornecido, justamente pelo tamanho do chassi que compramos. 
+- 
+## Testes
+| Teste | Resultado |
+|---|---|
+|  | |
+|  |  |
+
+## ações futuras
+- termina do código oficial
+- terminar do esquema eletrico
+- Concluir a movimentação do carro.
+- 
+  
+---
