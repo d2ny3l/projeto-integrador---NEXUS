@@ -78,19 +78,19 @@
 - teste do motor
 - inicio desenho técnico do carro
 - inicio do esquema elétrico
-- começar o código final
+- começar o código 
 - compra do chassi
-- 
+- estudo teste da comunicação MQTT
 ## Concluído
 - chassi comprado
 - motor funcionando
 - inicio da movimentação do carro
--
+- estudo e teste da comunicação MQTT
 -
 ## Ainda em produção
 - desenho técnico do carro
 - esquema elétrico
-- código final
+- código da etapa 1 
 -
 ## Problemas enfrentados 
 - 
@@ -100,8 +100,8 @@
 ## Testes
 | Teste | Resultado |
 |---|---|
-|  | |
-|  |  |
+| 30/09/2026 | teste comunicação mqtt |
+| 01/10/2026 | teste comunicação mqtt |
 
 ## ações futuras
 - termina do código oficial
