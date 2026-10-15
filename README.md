@@ -52,7 +52,13 @@ ainda está em estagios muito iniciais
 - [ ] Integração da câmera
 - [ ] Outros: ____________________
 ### Em produção
--
+- esquema elétrico
+- desenho mecânico do carro
+- conexões do circuito elétrico no carro
+- testes de integração com: esp32, conexões elétricas e motores 
+- código para os motores do carro
+- testes para o funcionamento do carro em movimento
+  
 ### Principais pendencias
 -
 
