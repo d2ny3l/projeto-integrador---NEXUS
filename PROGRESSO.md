@@ -151,3 +151,49 @@
 - 
   
 ---
+
+# Semana 5 — 14/10/2026 a 16/10/2026
+
+## Planejado
+- refazer o esquema elétrico no chassi do kit
+- fazer o carro andar
+## Concluído
+
+-Trocamos o Esp32 por um Esp32 super mini 
+
+## Não concluído
+
+- ____________________
+
+## Problemas ou impedimentos
+
+- Nosso Esp32 queimou então tivemos que fazer a troca por um novo
+- tivemos dificuldade em integrar o novo esp no sistema elétrico
+- dificuldade em fazer o Esp funcionar com um regulador de tensão
+
+## Decisões técnicas da semana
+
+-usar um regulador de tensão para controlar a tensão que a bateria fornece
+
+## Demonstração preparada para a AP1
+
+
+## Situação geral na AP1
+
+### Entregas concluídas
+
+- ____________________
+
+### Entregas parcialmente concluídas
+
+- ____________________
+
+### Entregas não concluídas
+
+- ____________________
+
+### Principais alterações em relação ao planejamento original
+
+- ____________________
+
+### Justificativas
