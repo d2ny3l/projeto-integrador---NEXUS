@@ -42,12 +42,12 @@ ainda será organizada
 ainda está em estagios muito iniciais
 ### Concluído
 - [ ] Definição da arquitetura geral
-- [ ] Projeto mecânico inicial
-- [ ] Diagrama elétrico inicial
+- [X] Projeto mecânico inicial
+- [X] Diagrama elétrico inicial
 - [ ] Comunicação com o sistema da organização
-- [ ] Controle dos motores em bancada
+- [X] Controle dos motores em bancada
 - [ ] Integração mecânica
-- [ ] Integração eletroeletrônica
+- [X] Integração eletroeletrônica
 - [ ] Teste do veículo em movimento
 - [ ] Integração da câmera
 - [ ] Outros: ____________________
