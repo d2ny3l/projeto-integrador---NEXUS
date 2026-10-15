@@ -82,7 +82,7 @@ docs/
 ### Documentos disponíveis
 - **Arquitetura geral:** 
 - **Projeto mecânico:** 
-- **Diagrama elétrico:** 
+- **Diagrama elétrico:** https://u.easyeda.com/join?type=project&key=a5a37572f226f9c19857f67c44e03b58&inviter=37e47553772144d29d3ed184d3266b24
 - **Documentação do software:** 
 - **Lista de materiais:** 
 - **Registros de testes:**
