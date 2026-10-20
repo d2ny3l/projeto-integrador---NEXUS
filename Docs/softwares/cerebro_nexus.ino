@@ -48,11 +48,12 @@ void callback (char* topic, byte* payload, unsigned int tamanho) {
   }
 
 
-  
+  //pwm dos motores
   analogWrite(ENA, 128);
   analogWrite(ENB, 128);
 
- 
+
+  //o que o esp32 deve interpretar para cada uma dessas mensagens que serão enviadas para o tópico 
 if (mensagem == "w"){ 
     estadoIN3 = HIGH;
     estadoIN4 = LOW;
