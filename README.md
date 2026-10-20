@@ -48,7 +48,7 @@ ainda está em estagios muito iniciais
 - [X] Controle dos motores em bancada
 - [ ] Integração mecânica
 - [X] Integração eletroeletrônica
-- [ ] Teste do veículo em movimento
+- [X] Teste do veículo em movimento
 - [ ] Integração da câmera
 - [ ] Outros: ____________________
 ### Em produção
