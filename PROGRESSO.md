@@ -100,8 +100,8 @@
 ## Testes
 | Teste | Resultado |
 |---|---|
-| 30/09/2026 | teste comunicação mqtt |
-| 01/10/2026 | teste comunicação mqtt |
+| teste comunicação mqtt | o broker não estava iniciando |
+| teste comunicação mqtt | broker ligando e o tópico está recebendo as publicações |
 
 ## ações futuras
 - termina do código oficial
@@ -128,7 +128,7 @@
 -
 ## Ainda em produção
 - esquema elétrico
-- código final
+- código etapa 1
 - movimentação do carro
 - 
 ## Problemas enfrentados 
