@@ -29,6 +29,7 @@ Desenvolver um veículo terrestre em pequena escala para participação na Compe
 
 ## Arquitetura geral
 ainda será organizada
+
 ### Subsistemas
 - **Mecânica:** 
 - **Eletrônica:** 
@@ -39,28 +40,29 @@ ainda será organizada
 ---
 
 ## Estado atual do projeto
-ainda está em estagios muito iniciais
+O progresso foi lento no inicio mas agora estamos com ele 50% pronto
+Estamos com a parte da eletrônica toda pronta(tanto física como o esquema digital), avançamos no código e no desenho técnico e iniciamos o processo da mecânica no chassi, adaptando a estrutura do chassi.
+
 ### Concluído
 - [ ] Definição da arquitetura geral
 - [X] Projeto mecânico inicial
 - [X] Diagrama elétrico inicial
 - [ ] Comunicação com o sistema da organização
 - [X] Controle dos motores em bancada
-- [ ] Integração mecânica
+- [X] Integração mecânica
 - [X] Integração eletroeletrônica
 - [X] Teste do veículo em movimento
 - [ ] Integração da câmera
 - [ ] Outros: ____________________
 ### Em produção
-- esquema elétrico
-- desenho mecânico do carro
-- conexões do circuito elétrico no carro
-- testes de integração com: esp32, conexões elétricas e motores 
+- a parte mecânica do carro(adaptando ele para uso)
+- desenho mecânico do carro 
 - código para os motores do carro
 - testes para o funcionamento do carro em movimento
   
 ### Principais pendencias
--
+- teste do carro com o volante
+- testar a integração da câmera
 
 ---
 
