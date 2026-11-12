@@ -121,13 +121,11 @@
 - fazer o carro andar com o novo chassi
 - 
 ## Concluído
-- Chassi entre nós
+- Chassi chegou
 - motor funcionando
-- inicio da movimentação do carro
-- Desenho do carro feito 
--
-## Ainda em produção
 - esquema elétrico
+- 
+## Ainda em produção
 - código etapa 1
 - movimentação do carro
 - 
@@ -136,17 +134,16 @@
 - Chassi pequeno.
 - 
 ## decisões da semana
-- Voltamos a utilizar o kit fornecido, justamente pelo tamanho do chassi que compramos. 
+- Continuamos a utilizar o kit fornecido, justamente pelo tamanho do chassi que compramos. 
 - 
 ## Testes
 | Teste | Resultado |
-|---|---|
-|  | |
+|teste com o motores |funcionando normalmente|
+| testar as ligações  | tensão chegando em todos os pontos |
 |  |  |
 
 ## ações futuras
 - termina do código oficial
-- terminar do esquema eletrico
 - Concluir a movimentação do carro.
 - 
   
@@ -157,13 +154,14 @@
 ## Planejado
 - refazer o esquema elétrico no chassi do kit
 - fazer o carro andar
+- 
 ## Concluído
 
--Trocamos o Esp32 por um Esp32 super mini 
+- Trocamos o Esp32 queimado por um Esp32 super mini
+- trocamos novamente o esp32 (o mini por um novo esp32 maior)
+- novo esquema elétrico feito
 
 ## Não concluído
-
-- ____________________
 
 ## Problemas ou impedimentos
 
@@ -173,7 +171,8 @@
 
 ## Decisões técnicas da semana
 
--usar um regulador de tensão para controlar a tensão que a bateria fornece
+-usar um regulador de tensão para controlar a tensão que a bateria fornecida
+- conseguimos um novo esp32 que não precisou de regulador de tensão
 
 ## Demonstração preparada para a AP1
 
@@ -182,18 +181,26 @@
 
 ### Entregas concluídas
 
-- ____________________
+- esquema elétrico
+- ligações no chassi
+- carrinho em movimento com controle digital
+- repositório do github
 
 ### Entregas parcialmente concluídas
 
-- ____________________
+- desenho técnico do carro
 
 ### Entregas não concluídas
 
-- ____________________
+- chassi oficial 
 
 ### Principais alterações em relação ao planejamento original
 
-- ____________________
+- houve complicações com o modelo oficial do chassi e acabamos utilizando o fornecido pelo kit
+- demoramos mais que o esperado para fazer o carrinho andar com controle
+- desenho técnico não foi concluído
 
 ### Justificativas
+- Em relação ao chassi, compramos pela internet mas as medidas estavam erradas quando ele chegou
+- o carrinho demorou para andar por complicações com o nosso esp32 que tivemos que trocar duas vezes
+- o desenho não foi concluído porque foi priorizado outras coisas
