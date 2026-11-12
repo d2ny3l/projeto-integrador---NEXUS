@@ -204,3 +204,88 @@
 - Em relação ao chassi, compramos pela internet mas as medidas estavam erradas quando ele chegou
 - o carrinho demorou para andar por complicações com o nosso esp32 que tivemos que trocar duas vezes
 - o desenho não foi concluído porque foi priorizado outras coisas
+
+
+# semana 6 - 19/10/2026 a 23/10/2026
+## Planejado
+- avaliação da primeira etapa com o orientador
+
+## Concluído
+- avaliação da primeira etapa
+-
+## Ainda em produção
+- desenho tecnico
+- esperando a compra do novo chassir
+
+## Problemas enfrentados 
+
+## decisões da semana
+- usar o chassi do kit na avaliação porque que não conseguimos trocar para o chassi novo
+
+## Testes
+| Teste | Resultado |
+|mostrar na avaliação o carro em andamento|concluído|
+
+
+## ações futuras
+- 
+
+# semana 7 - 02/11/2026 a 06/11/2026
+
+## Planejado
+- chegada da compra online  do carro
+- adaptação do chassi
+-  
+## Concluído
+- nada foi concluído
+
+## Ainda em produção
+- desenho tecnico
+- 
+## Problemas enfrentados 
+- problemas na compra online do novo chassi
+
+## decisões da semana
+- comprar o chassi de forma presencial
+
+## Testes
+| Teste | Resultado |
+|---|---|
+
+
+## ações futuras
+- comprar o novo carro
+- iniciar a mecânica do carro
+
+
+# semana 8 - 09/11/2026 a 13/11/2026
+
+## Planejado
+- comprar o novo carro
+- começar a parte mecânica no chassi oficial adaptando ele para incluir a parte eletrônica
+- finalizar desenho do carro
+- 
+## Concluído
+- compra do carro
+- adaptação do chassir
+-
+## Ainda em produção
+- desenho técnico do carro
+- 
+## Problemas enfrentados 
+- demora na compra do chassi
+
+## decisões da semana
+- não utilizar os motores comprados
+- utilizar os motores que estão no novo chassir
+
+## Testes
+| Teste | Resultado |
+|verificar os motores do novo chassir|funcionando|
+|vefificar se a corrente esta passando nas conexões| a corrente esta passando |
+|  |  |
+
+## ações futuras
+- testar o carrinho com chassi novo em movimento
+- fazer testes com o volante
+- modificar o codigo para integrar o volante
