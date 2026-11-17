@@ -138,9 +138,10 @@
 - 
 ## Testes
 | Teste | Resultado |
-|teste com o motores |funcionando normalmente|
-| testar as ligações  | tensão chegando em todos os pontos |
-|  |  |
+|---|---|
+| teste com motores | funcionando normalmente |
+|testar as ligações  | tensão chegando em todos os pontos |
+
 
 ## ações futuras
 - termina do código oficial
@@ -230,7 +231,27 @@
 ## ações futuras
 - 
 
-# semana 7 - 02/11/2026 a 06/11/2026
+# semana 7 - 26/10/2026 a 30/10/2026
+## Planejado
+
+## Concluído
+-
+## Ainda em produção
+- 
+## Problemas enfrentados 
+
+## decisões da semana
+
+
+## Testes
+| Teste | Resultado |
+|mostrar na avaliação o carro em andamento|concluído|
+
+
+## ações futuras
+- 
+
+# semana 8 - 02/11/2026 a 06/11/2026
 
 ## Planejado
 - chegada da compra online  do carro
@@ -258,7 +279,7 @@
 - iniciar a mecânica do carro
 
 
-# semana 8 - 09/11/2026 a 13/11/2026
+# semana 9 - 09/11/2026 a 13/11/2026
 
 ## Planejado
 - comprar o novo carro
@@ -289,3 +310,24 @@
 - testar o carrinho com chassi novo em movimento
 - fazer testes com o volante
 - modificar o codigo para integrar o volante
+
+
+# semana 10 - 16/11/2026 a 20/11/2026
+## Planejado
+
+## Concluído
+-
+## Ainda em produção
+- 
+## Problemas enfrentados 
+
+## decisões da semana
+
+
+## Testes
+| Teste | Resultado |
+|x|x|
+
+
+## ações futuras
+- 
