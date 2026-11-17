@@ -31,11 +31,11 @@ Desenvolver um veículo terrestre em pequena escala para participação na Compe
 ainda será organizada
 
 ### Subsistemas
-- **Mecânica:** 
-- **Eletrônica:** 
-- **Software:**
-- **Comunicação:** 
-- **Alimentação:**
+- **Mecânica:** Responsável pela estrutura física do carrinho, chassi, fixação de motores, rodas e alinhamento das peças para garantir estabilidade e mobilidade.
+- **Eletrônica:** Responsável pela integração dos componentes de hardware, incluindo o microcontrolador (ESP32), drivers de motor e a fiação que conecta todo o circuito.
+- **Software:** Desenvolvimento e implementação do código responsável por controlar os motore e receber os comandos externos para fazer o carrinho se movimentar corretamente.
+- **Comunicação:** Gerenciamento da forma como o carrinho recebe comandos
+- **Alimentação:**  Sistema responsável por fornecer energia estável e segura para todo o circuito, gerenciando baterias e o fluxo elétrico para motores e eletrônica.
 
 ---
 
@@ -57,7 +57,7 @@ Estamos com a parte da eletrônica toda pronta(tanto física como o esquema digi
 ### Em produção
 - a parte mecânica do carro(adaptando ele para uso)
 - desenho mecânico do carro 
-- código para os motores do carro
+- código para o carro
 - testes para o funcionamento do carro em movimento
   
 ### Principais pendencias
@@ -117,9 +117,10 @@ docs/
 ## Testes realizados
 | Data | Teste | Resultado | Próxima ação |
 |---|---|---|---|
-| XX/XX/2026 | ____________________ | ____________________ | ____________________ |
+| 21/09/2026 |verificamos se os motores, a ponte H e Esp32 do kit estava funcionando |nosso esp estava queimado | substituir o esp32 por outro |
+
 
 ---
 
 ## Observações 
-- nenhuma por enquanto
+- o documento está com algumas pendências mas em breve serão ajustadas.
