@@ -41,7 +41,7 @@ ainda será organizada
 
 ## Estado atual do projeto
 O progresso foi lento no inicio mas agora estamos com ele 50% pronto
-Estamos com a parte da eletrônica toda pronta(tanto física como o esquema digital), avançamos no código e no desenho técnico e iniciamos o processo da mecânica no chassi, adaptando a estrutura do chassi.
+Estamos com a parte da eletrônica toda pronta(tanto física como o esquema digital), avançamos no código e no desenho técnico e iniciamos o processo da mecânica no carro, adaptando a estrutura do chassi.
 
 ### Concluído
 - [ ] Definição da arquitetura geral
