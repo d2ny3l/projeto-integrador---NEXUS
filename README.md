@@ -118,6 +118,12 @@ docs/
 | Data | Teste | Resultado | Próxima ação |
 |---|---|---|---|
 | 21/09/2026 |verificamos se os motores, a ponte H e Esp32 do kit estava funcionando |nosso esp estava queimado | substituir o esp32 por outro |
+| /2026 |teste com um novo esp32 |funcionando |integrar o esp32 no circuito eletrônico|
+| /2026 |integração do código no esp32 para fazer o carro do kit andar |ainda não funcionou |fazer outros testes|
+| /2026 |verificamos a corrente nos componentes do chassi para procurar algum erro |esp32 queimado| utilizar um esp32 mini |
+| /2026 |testar outro novo esp32 que conseguimos  | funcionando | integrar no circuito |
+| /2026 |trocar o uso da fonte por baterias |funcionou| integrar as baterias no circuito |
+| 16/10/2026 |teste com o carro junto com um código simples para fazer o carro andar em quatro direções |funcionou|  |
 
 
 ---
